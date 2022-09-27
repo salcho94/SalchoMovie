@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SalchoMovie/static/css/main.1273322f.chunk.css",
+    "main.js": "/SalchoMovie/static/js/main.ee704748.chunk.js",
+    "main.js.map": "/SalchoMovie/static/js/main.ee704748.chunk.js.map",
+    "runtime-main.js": "/SalchoMovie/static/js/runtime-main.e85d528e.js",
+    "runtime-main.js.map": "/SalchoMovie/static/js/runtime-main.e85d528e.js.map",
+    "static/js/2.c76a4dc9.chunk.js": "/SalchoMovie/static/js/2.c76a4dc9.chunk.js",
+    "static/js/2.c76a4dc9.chunk.js.map": "/SalchoMovie/static/js/2.c76a4dc9.chunk.js.map",
+    "index.html": "/SalchoMovie/index.html",
+    "precache-manifest.d6a26e00e4c38696797b30b9e152ed2e.js": "/SalchoMovie/precache-manifest.d6a26e00e4c38696797b30b9e152ed2e.js",
+    "service-worker.js": "/SalchoMovie/service-worker.js",
+    "static/css/main.1273322f.chunk.css.map": "/SalchoMovie/static/css/main.1273322f.chunk.css.map",
+    "static/js/2.c76a4dc9.chunk.js.LICENSE.txt": "/SalchoMovie/static/js/2.c76a4dc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e85d528e.js",
+    "static/js/2.c76a4dc9.chunk.js",
+    "static/css/main.1273322f.chunk.css",
+    "static/js/main.ee704748.chunk.js"
+  ]
+}
